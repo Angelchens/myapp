@@ -45,6 +45,9 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this,R.string.msd,Toast.LENGTH_SHORT).show();
 
     }
+    public void  sa(){
+
+    }
 
 }
 
